@@ -22,5 +22,5 @@ config.status
 libtool
 .deps
 *.tar.gz
-
-
+a.out
+*~
